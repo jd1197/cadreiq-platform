@@ -1,0 +1,17 @@
+streamlit>=1.45.1
+pandas>=2.2.3
+plotly>=6.1.2
+reportlab>=4.4.2
+numpy>=2.2.6
+boto3
+botocore
+fastapi
+psycopg2-binary
+pytest
+simple-salesforce
+uvicorn
+openai
+python-dotenv
+requests
+pip-audit
+safety
